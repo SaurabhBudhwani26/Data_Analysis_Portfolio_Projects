@@ -1,6 +1,6 @@
 # Covid Data analysis
 
-I have performed data analysis using SQL on the files CovidDeaths.csv and CovidVaccinations.csv
+I have performed data analysis using SQL on the files CovidDeaths.csv and CovidVaccinations.csv and with help of that created Tableau Tables(1-4).
 
 Refer SQL_Data_Exploration.sql to see SQL Queries
 
